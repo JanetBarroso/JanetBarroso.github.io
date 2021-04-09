@@ -1,4 +1,5 @@
-<span style="color:purple"> **Dr.Janet Barroso.** </span>
+![Photo](JanetBarroso/JanetBarroso.github.io/barroso_003.png)
+<span style="color:dark green"> **Dr.Janet Barroso.** </span>
 
 ### CONTACT
 📧: janetbarroso@gmail.com 
