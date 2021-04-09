@@ -1,7 +1,10 @@
-<span style="color:orange">some **Dr.Janet Barroso.** text</span>
+<span style="color:purple"> **Dr.Janet Barroso.** </span>
 
 ### CONTACT
-:e-mail: janetbarroso@gmail.com 
+📧: janetbarroso@gmail.com 
+☎️: +017677173387
+:earth_americas: Heidelberg, Germany
+
 ### SUMMARY
 Research scientist with 10+ years in scientific programming and implementation of computational mathematical  models of as well as data analysis from a variety of biological sources.
 with a strong focus in Neuroscience.
@@ -9,6 +12,7 @@ with a strong focus in Neuroscience.
 
 ### WORK EXPERIENCE
 _10/2016 - 12/2019_
+
 **Postdoctoral Researcher**, 
 Central Institute of mental Health. 
 Mannheim, Germany
@@ -63,6 +67,7 @@ _2001 - 2009_
 National Autonomous University of Mexico.
 Mexico City, Mexico
 **_”Modeling the non-linear dynamics of the electrical activity of medium spiny neurons of the rat neostriatum”_**
+
     - Mathematical model of non-linear dynamic of intrinsic properties on spiny neurons
 
 
