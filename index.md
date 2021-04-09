@@ -64,28 +64,27 @@ Mexico City, Mexico
 
 ### PROGRAMMING SKILLS
 
-Scientific Computing:                       Python:
-    - MATLAB                                    - numpy
-    - R                                         - matplotlib.pyplot
-    - VBA                                       - pandas
+* Scientific Computing:                   
+    - MATLAB               
+    - R                      
+    - VBA                                      
     - Bioconductor
     - Galaxy
 
-Python:
+* Python:
     - numpy
     - matplotlib.pyplot
     - pandas
 
-SQL:
+* SQL:
     - SQLite
 
-Test Driven Development:
+* Test Driven Development:
     - pytest
 
-AGILE methodologies:
+* AGILE methodologies:
     - Pair programming
 
 ### LANGUAGES
-Spanish (Native)
-English (C1)
-German (A2)
+
+Spanish (Native) | English (C1) | German (A2)
