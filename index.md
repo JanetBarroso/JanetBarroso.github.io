@@ -1,6 +1,6 @@
-![Photo] (/barroso-003.jpg)
+![Photo](/barroso-003.jpg)
 
-<span style="color:dark green"> # **Dr.Janet Barroso.** </span>
+# **Dr.Janet Barroso.** 
 
 ### CONTACT
 📧: janetbarroso@gmail.com | ☎️: +017677173387 | 🌎: Heidelberg, Germany
