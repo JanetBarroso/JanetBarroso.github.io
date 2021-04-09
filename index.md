@@ -73,26 +73,13 @@ Mexico City, Mexico
 
 ### PROGRAMMING SKILLS
 
-* Scientific Computing:                   
-    - MATLAB               
-    - R                      
-    - VBA                                      
+* Scientific Computing: | Python | SQL | TTD | AGILE                  
+    - MATLAB | - numpy | - SQLite | - pytest | - Pair programming        
+    - R   | - matplotlib.pyplot           
+    - VBA   | - pandas                           
     - Bioconductor
     - Galaxy
 
-* Python:
-    - numpy
-    - matplotlib.pyplot
-    - pandas
-
-* SQL:
-    - SQLite
-
-* Test Driven Development:
-    - pytest
-
-* AGILE methodologies:
-    - Pair programming
 
 ### LANGUAGES
 
