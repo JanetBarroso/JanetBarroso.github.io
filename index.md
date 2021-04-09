@@ -1,4 +1,5 @@
-![Photo](JanetBarroso/JanetBarroso.github.io/barroso_003.png)
+![Photo](JanetBarroso/JanetBarroso.github.io/barroso-003.png)
+
 <span style="color:dark green"> **Dr.Janet Barroso.** </span>
 
 ### CONTACT
