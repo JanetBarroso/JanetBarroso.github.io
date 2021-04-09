@@ -1,4 +1,4 @@
-![Photo] (barroso-003.jpg)
+![Photo] (/barroso-003.jpg)
 
 <span style="color:dark green"> # **Dr.Janet Barroso.** </span>
 
@@ -23,6 +23,7 @@ Mannheim, Germany
     - Training of Students (3 master students; 4 bachelor students)
 
 _07/2015 – 01/2016_
+
 **Developer**
 Center for Research and Advanced Studies of the National Polytechnic Institute.
 Mexico City, Mexico
@@ -30,6 +31,7 @@ Mexico City, Mexico
     - Development of software for identifying temporal sequences as epileptic biomarkers
 
 _08/2011 – 12/2012_
+
 **Biostatistics Lecturer**
 National Autonomous University of Mexico. 
 Mexico City, Mexico
@@ -40,6 +42,7 @@ Mexico City, Mexico
 ### EDUCATION
       
 _April 2020 -  August 2020_
+
 **Genomic Data Science.** 
 Specialization from John Hopkins University (_Cursera_) 
 
@@ -53,6 +56,7 @@ Specialization from John Hopkins University (_Cursera_)
     - Genomic Data Science Capstone
 
 _2009 - 2016_
+
 **PhD in Science. (Magna Cum Laude)** 
 National Autonomous University of Mexico. 
 Mexico city, Mexico. 
@@ -63,6 +67,7 @@ Mexico city, Mexico.
     
     
 _2001 - 2009_
+
 **Diploma in Physics** 
 National Autonomous University of Mexico.
 Mexico City, Mexico
@@ -73,12 +78,26 @@ Mexico City, Mexico
 
 ### PROGRAMMING SKILLS
 
-* Scientific Computing: | Python | SQL | TTD | AGILE                  
-    - MATLAB | - numpy | - SQLite | - pytest | - Pair programming        
-    - R   | - matplotlib.pyplot           
-    - VBA   | - pandas                           
+* Scientific Computing:                   
+    - MATLAB        
+    - R           
+    - VBA                          
     - Bioconductor
     - Galaxy
+
+* Python:
+    - numpy
+    - matplotlib.pyplot
+    - pandas
+
+* SQL:
+    - SQLite
+
+* Test Driven Development:
+    - pytest
+
+* AGILE methodologies:
+    - Pair programming
 
 
 ### LANGUAGES
