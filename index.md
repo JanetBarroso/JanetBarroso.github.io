@@ -1,4 +1,4 @@
-![Photo] (JanetBarroso/JanetBarroso.github.io/barroso-003.png)
+![Photo] (barroso-003.jpg)
 
 <span style="color:dark green"> # **Dr.Janet Barroso.** </span>
 
