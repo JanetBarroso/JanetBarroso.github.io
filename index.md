@@ -1,3 +1,7 @@
+<span style="color:orange">some **Dr.Janet Barroso.** text</span>
+
+### CONTACT
+:e-mail: janetbarroso@gmail.com 
 ### SUMMARY
 Research scientist with 10+ years in scientific programming and implementation of computational mathematical  models of as well as data analysis from a variety of biological sources.
 with a strong focus in Neuroscience.
