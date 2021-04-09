@@ -1,15 +1,13 @@
-![Photo](JanetBarroso/JanetBarroso.github.io/barroso-003.png)
+![Photo] (JanetBarroso/JanetBarroso.github.io/barroso-003.png)
 
-<span style="color:dark green"> **Dr.Janet Barroso.** </span>
+<span style="color:dark green"> # **Dr.Janet Barroso.** </span>
 
 ### CONTACT
-📧: janetbarroso@gmail.com 
-☎️: +017677173387
-:earth_americas: Heidelberg, Germany
+📧: janetbarroso@gmail.com | ☎️: +017677173387 | 🌎: Heidelberg, Germany
+
 
 ### SUMMARY
-Research scientist with 10+ years in scientific programming and implementation of computational mathematical  models of as well as data analysis from a variety of biological sources.
-with a strong focus in Neuroscience.
+Research scientist with 10+ years in scientific programming and implementation of computational mathematical  models of as well as data analysis from a variety of biological sources with a strong focus in Neuroscience.
 
 
 ### WORK EXPERIENCE
